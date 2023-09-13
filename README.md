@@ -27,7 +27,6 @@ This project is an E-Commerce web application built with the following technolog
 Before you begin, ensure you have met the following requirements:
 
 - Node.js and npm (or yarn) installed on your local machine.
-- [Replace with any other prerequisites specific to your project]
 
 ### Installation
 
